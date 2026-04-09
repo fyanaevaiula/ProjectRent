@@ -1,0 +1,17 @@
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Bll.deps.json
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Bll.dll
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Bll.pdb
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Core.dll
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Dal.dll
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Core.pdb
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\bin\Debug\net10.0\ProjectRent.Dal.pdb
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.csproj.AssemblyReference.cache
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.AssemblyInfoInputs.cache
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.AssemblyInfo.cs
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.csproj.CoreCompileInputs.cache
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectR.7071928D.Up2Date
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.dll
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\refint\ProjectRent.Bll.dll
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ProjectRent.Bll.pdb
+D:\8 - ИТМО - Технология ADO.NET_Карбаинов Максим Андреевич\ProjectRent.UI\ProjectRent.Bll\obj\Debug\net10.0\ref\ProjectRent.Bll.dll

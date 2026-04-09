@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectRent.Core\ProjectRent.Core.csproj" />
+    <ProjectReference Include="..\ProjectRent.Dal\ProjectRent.Dal.csproj" />
+  </ItemGroup>
+
+</Project>
