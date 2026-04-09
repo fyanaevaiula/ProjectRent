@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ForDebag/ForDebag.csproj" />
+  <Project Path="ProjectRent.Bll/ProjectRent.Bll.csproj" />
+  <Project Path="ProjectRent.Core/ProjectRent.Core.csproj" />
+  <Project Path="ProjectRent.Dal/ProjectRent.Dal.csproj" />
+  <Project Path="ProjectRent.UI/ProjectRent.UI.csproj" />
+</Solution>
